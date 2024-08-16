@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Nike Air Force 1 07", "img": "air-force-1-07-shoes-NMmm1B.png", "price": 1000000, "iddm": 1, "hot": 1 },
+    { "id": 2, "name": "Nike Air Force 107", "img": "air-force-1-07-shoes-RgcF1Q.png", "price": 1000000, "iddm": 2, "hot": 1 },
+    { "id": 3, "name": "Nike Cortez Leather", "img": "cortez-leather-shoes-svdKM9.png", "price": 1000000, "iddm": 3, "hot": 1 },
+    { "id": 4, "name": "Nike Air Force 1 07", "img": "air-force-1-07-shoes-b0f549.png", "price": 1000000, "iddm": 1, "hot": 1 },
+    { "id": 5, "name": "Nike Air Force 1 07 Next Nature SE", "img": "air-force-1-07-next-nature-se-shoes-tpPRVT.png", "price": 1000000, "iddm": 2, "hot": 1 },
+    { "id": 6, "name": "Nike Air Force 1 Shadow", "img": "air-force-1-shadow-shoes-DmvLlC.png", "price": 1000000, "iddm": 3, "hot": 1 },
+    { "id": 7, "name": "Nike Air Force 1 07 Next Nature SE", "img": "air-force-1-07-next-nature-se-shoes-tpPRVT.png", "price": 1000000, "iddm": 2, "hot": 1 },
+    { "id": 8, "name": "Nike Air Force 1 Shadow", "img": "air-force-1-shadow-shoes-DmvLlC.png", "price": 1000000, "iddm": 3, "hot": 1 },
+    { "id": 9, "name": "Nike Air Force 1 07", "img": "air-force-1-07-shoes-NMmm1B.png", "price": 1000000, "iddm": 1, "hot": 1 },
+    { "id": 10, "name": "Nike Air Force 107", "img": "air-force-1-07-shoes-RgcF1Q.png", "price": 1000000, "iddm": 2, "hot": 1 }
+]
